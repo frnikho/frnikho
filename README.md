@@ -1,17 +1,36 @@
-<h1 align="center">Hi 👋, I'm Nicolas SANS</h1>
-<h3 align="center">Développeur Fullstack Junior</h3>
+# Bienvenue sur mon profil GitHub 👋
 
-[![Linkedin account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Linkedin account")](https://www.linkedin.com/in/nicosans/ "Linkedin account")
+Je suis Nicolas SANS, un étudiant passionné par tout ce qui touche le développement et basé à Nantes. Ici, vous trouverez une collection de mes projets ainsi que de mes contributions. N'hésitez pas à explorer et à me contacter pour toute collaboration ou discussion.
 
+📍 Basé à Nantes
+
+🏫 Alternant à Epitech NANTES
+
+💼 Consultant Salesforce chez Capgemini
+
+🌱 Passionné de domotique et d'automatisation
+
+📬 Me contacter:
+
+- nicolas.sansd@gmail.com
+- [linkedin.com/in/nicosans/](https://www.linkedin.com/in/nicosans/)
+
+## Languages
+  
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  
 </p>
 
-<div align="center">
-  <img align="center" src="https://api.daily.dev/devcards/134e9a6e868941c5b46bc29bd46bd6ec.png?r=h4l" width="400" alt="frnikho" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frnikho&show_icons=true&locale=en" alt="frnikho" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frnikho&" alt="frnikho" />
-</div>
+## Outils
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
