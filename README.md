@@ -1,14 +1,12 @@
 # Bienvenue sur mon profil GitHub 👋
 
-Je suis Nicolas SANS, un étudiant passionné par tout ce qui touche le développement et basé à Nantes. Ici, vous trouverez une collection de mes projets ainsi que de mes contributions. N'hésitez pas à explorer et à me contacter pour toute collaboration ou discussion.
+Je suis Nicolas SANS, développeur passionné par tout ce qui touche à la technologie et basé à Nantes. Ici, vous trouverez une collection de mes projets ainsi que de mes contributions. N'hésitez pas à explorer et à me contacter pour toute collaboration ou discussion.
 
 📍 Basé à Nantes
 
-🏫 Alternant à Epitech NANTES
-
 💼 Consultant Salesforce chez Capgemini
 
-🌱 Passionné de domotique et d'automatisation
+🌱 Passionné de domotique, d'automatisation et de DevOps/GitOps 
 
 📬 Me contacter:
 
